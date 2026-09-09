@@ -26,6 +26,7 @@ To retire a page, replace its contents. Keep the path alive.
 | --- | --- |
 | `index.html` | Landing page, links to everything else |
 | `privacy.html` | Privacy policy, referenced by the app and App Store Connect |
+| `terms.html` | Terms of service, linked from the app |
 | `style.css` | Shared stylesheet for every page |
 | `CNAME` | Custom domain for GitHub Pages |
 | `.nojekyll` | Serves the directory as-is, skipping Jekyll |
